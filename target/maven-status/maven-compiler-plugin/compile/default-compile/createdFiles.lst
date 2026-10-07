@@ -1,0 +1,6 @@
+Mashruq\PageObject\CartPage.class
+Mashruq\PageObject\ConfirmationPage.class
+AbstractComponents\AbstractComponent.class
+Mashruq\PageObject\CheckOut.class
+Mashruq\PageObject\product.class
+Mashruq\PageObject\LandingPage.class

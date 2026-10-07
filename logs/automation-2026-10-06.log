@@ -1,0 +1,58 @@
+13:47:47.796 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+07:20:05.437 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 4 | Email: 20ne1a05f7@gmail.com
+07:20:06.176 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+07:20:11.763 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: sjilani476@gmail.com
+07:20:12.286 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+07:20:40.274 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+07:20:41.654 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+07:20:41.656 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+07:20:46.306 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+07:20:47.926 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+07:20:47.926 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+07:20:51.839 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+07:21:12.812 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+07:21:16.011 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+07:21:36.627 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+07:21:40.425 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+07:22:01.323 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+07:22:05.845 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+07:22:26.573 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+08:02:57.299 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 4 | Email: 20ne1a05f7@gmail.com
+08:02:59.737 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+08:03:07.452 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: sjilani476@gmail.com
+08:03:09.205 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+08:03:41.151 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+08:03:43.139 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+08:03:43.140 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+08:03:48.290 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+08:03:49.702 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+08:03:49.702 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+08:03:55.135 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+08:04:15.943 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+08:04:23.717 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+08:04:45.017 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+08:04:51.965 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+08:05:14.817 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+08:05:19.209 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+08:05:40.324 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+21:37:45.221 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: 20ne1a05f7@gmail.com
+21:37:45.736 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+21:38:01.151 [main] INFO  Mashruq.Test.StandAloneTest - Adding product ZARA COAT 3 to cart.
+21:38:43.054 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: sjilani476@gmail.com
+21:38:44.205 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+21:38:58.638 [main] INFO  Mashruq.Test.StandAloneTest - Adding product ZARA COAT 3 to cart.
+21:39:09.132 [main] INFO  Mashruq.Test.StandAloneTest - ZARA COAT 3 product added successfully to cart.
+21:39:10.774 [main] INFO  Mashruq.Test.StandAloneTest - Submitted the order ZARA COAT 3 successfully.
+21:39:21.378 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+21:39:23.157 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+21:39:23.159 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+21:39:29.342 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+21:39:30.862 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+21:39:30.862 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+21:39:56.320 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+21:40:17.314 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+21:40:42.381 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+21:41:02.915 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+21:41:21.550 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+21:41:42.195 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+21:41:54.015 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.

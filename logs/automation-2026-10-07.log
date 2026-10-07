@@ -1,0 +1,56 @@
+21:42:14.663 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+22:03:45.067 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: 20ne1a05f7@gmail.com
+22:03:45.771 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+22:03:47.218 [main] INFO  Mashruq.Test.StandAloneTest - Adding product ZARA COAT 3 to cart.
+22:03:58.888 [main] INFO  Mashruq.Test.StandAloneTest - ZARA COAT 3 product added successfully to cart.
+22:04:01.193 [main] INFO  Mashruq.Test.StandAloneTest - Submitted the order ZARA COAT 3 successfully.
+22:04:08.336 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: sjilani476@gmail.com
+22:04:08.772 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+22:04:22.080 [main] INFO  Mashruq.Test.StandAloneTest - Adding product ZARA COAT 3 to cart.
+22:04:32.570 [main] INFO  Mashruq.Test.StandAloneTest - ZARA COAT 3 product added successfully to cart.
+22:04:34.493 [main] INFO  Mashruq.Test.StandAloneTest - Submitted the order ZARA COAT 3 successfully.
+22:04:48.260 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+22:04:49.875 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+22:04:49.875 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+22:04:58.550 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+22:05:00.436 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+22:05:00.439 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+22:05:11.820 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+22:05:32.535 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+22:05:38.419 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+22:05:59.030 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+22:06:08.457 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+22:06:29.068 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+22:06:36.488 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+22:06:57.320 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+12:09:34.806 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: 20ne1a05f7@gmail.com
+12:09:36.210 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+12:09:49.576 [main] INFO  Mashruq.Test.StandAloneTest - Adding product ZARA COAT 3 to cart.
+12:09:59.820 [main] INFO  Mashruq.Test.StandAloneTest - ZARA COAT 3 product added successfully to cart.
+12:10:00.813 [main] INFO  Mashruq.Test.StandAloneTest - Submitted the order ZARA COAT 3 successfully.
+12:10:04.357 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: sjilani476@gmail.com
+12:10:04.620 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+12:10:17.747 [main] INFO  Mashruq.Test.StandAloneTest - Adding product ZARA COAT 3 to cart.
+12:10:27.985 [main] INFO  Mashruq.Test.StandAloneTest - ZARA COAT 3 product added successfully to cart.
+12:10:29.110 [main] INFO  Mashruq.Test.StandAloneTest - Submitted the order ZARA COAT 3 successfully.
+12:10:33.155 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+12:10:34.048 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+12:10:34.048 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+12:10:37.826 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+12:10:38.647 [main] INFO  Mashruq.Test.LoginTest - User Logout is successfully Executed
+12:10:38.648 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+12:10:43.319 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+12:11:03.712 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+12:11:07.197 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+12:11:27.506 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+12:11:30.923 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+12:11:51.274 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+12:11:54.812 [main] INFO  Mashruq.Test.LoginTest - Started Testing Login Test.
+12:12:15.087 [main] INFO  Mashruq.Test.LoginTest - Login Test is completed
+12:22:57.456 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: 20ne1a05f7@gmail.com
+12:22:57.763 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+12:23:10.879 [main] INFO  Mashruq.Test.StandAloneTest - Adding product ZARA COAT 3 to cart.
+12:23:21.132 [main] INFO  Mashruq.Test.StandAloneTest - ZARA COAT 3 product added successfully to cart.
+12:23:27.535 [main] INFO  Mashruq.Test.StandAloneTest - Started testing | Product: ZARA COAT 3 | Email: sjilani476@gmail.com
+12:23:27.819 [main] INFO  Mashruq.Test.StandAloneTest - User successfully logged in.
+12:23:41.068 [main] INFO  Mashruq.Test.StandAloneTest - Adding product ZARA COAT 3 to cart.
