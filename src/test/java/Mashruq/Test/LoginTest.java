@@ -13,8 +13,6 @@ public class LoginTest extends BaseTest {
 
 		logger.info("Started Testing Login Test.");
 
-//		Assert.assertTrue(lp.verifyLoginSuccess(username,password),"Login failed: Automation heading is not displayed.");
-
 		if (result.equalsIgnoreCase("Valid")) {
 
 			if (lp.verifyLoginSuccess(username, password)) {
